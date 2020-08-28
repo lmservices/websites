@@ -1,0 +1,210 @@
+/* LM WEBSITE */
+
+
+
+.navbar {
+background-color: #519872;
+height: 4.5rem;
+font-size: 2.5rem;
+padding: 0 0 4.5rem;
+
+}
+
+
+.navbar-brand {
+
+  font-family: ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+    
+}
+
+.brand .navbar-brand{
+    color: #40a8c4;
+}
+
+.nav-item {
+
+  padding: 0 16px;
+
+}
+
+.nav
+{
+color: #40a8c4;
+
+}
+.navbar:hover {
+
+  color: blue;
+}
+
+
+.nav-link /* navbar items */ {
+
+font-size: 1.3rem;
+color: #40a8c4;
+}
+
+
+/* other sections */
+
+.font1 {
+font-family: "Montserrat - Black";
+font-size: 3rem;
+line-height: 1.5;
+
+}
+
+
+
+
+#container-fluid {
+padding: 3% 12%;
+
+}
+
+#title {
+
+  background-color: #cff6cf;
+background-size: small;
+}
+
+
+.download-btn {
+
+
+  margin: 5% 2% 1% 0;
+}
+
+
+.word {
+  color: purple;
+  font-family: bold;
+}
+
+
+/* first item on menu*/
+
+.navbar-brand {
+
+  font-family: ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+
+.brand {
+    color: #40a8c4;
+}
+
+.nav-item {
+
+  padding: 0 16px;
+
+}
+
+.nav
+{
+color: #40a8c4;
+
+}
+.navbar:hover {
+
+  color: blue;
+}
+
+
+.nav-link /* navbar items */ {
+
+font-size: 1.3rem;
+color: #40a8c4;
+}
+
+.image1 {
+padding: 5% 0 0 5%;
+}
+
+
+#features {
+  text-align: center;
+padding: 5% 15%;
+
+}
+
+
+/* Testimonials section */
+
+#testimonials{
+
+background-color: #fbe2e5;
+text-align: center;
+
+}
+
+.western {
+
+width: 200px;
+padding-bottom: 70px;
+padding-top: 40px;
+
+}
+
+
+/* testimonial section */
+
+.header1 {
+
+font-family:]"Montserrat - Black";;
+font-size: 40px;
+
+}
+
+
+/* glashop comment */
+.headerglass {
+text-align: center;
+padding-left: 250px;
+padding-right: 250px;
+padding-top: 50px;
+color: #158467;
+}
+
+
+/* autoparts comment */
+
+
+.headerauto {
+text-align: center;
+padding-left: 250px;
+padding-right: 250px;
+padding-top: 50px;
+color: #158467;
+}
+
+
+.auto-image {
+
+  width: 200px;
+padding-bottom: 70px;
+padding-top: 40px;
+}
+
+.icon {
+color: #91d18b;
+
+}
+
+.icon:hover {
+
+color: #68b0ab;
+
+}
+
+
+
+/* main picture check */
+
+.image1 {
+ border-radius: 17%;
+}
